@@ -22,7 +22,8 @@
 	    {
 	      "ts": "never"
 	    }
-	  ]
+    ],
+    "arrow-body-style": "off"
 	},
 	"settings": {
 	  "import/resolver": {
