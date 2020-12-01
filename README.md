@@ -22,7 +22,7 @@ yarn
 ## Usage
 
 ```sh
-yarn dev
+yarn dev:server
 ```
 
 ## Run tests
