@@ -11,6 +11,11 @@
 ## Install
 
 ```sh
+git clone https://github.com/peguimasid/GoBarber-Backend-GoStack-11.git
+```
+## Install Packages
+
+```sh
 yarn
 ```
 
