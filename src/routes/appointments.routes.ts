@@ -6,7 +6,7 @@ const appointmentsRouter = Router();
 const appointmentsRepository = new AppointmentsRepository();
 
 appointmentsRouter.get('/', (request, response) => {
-  const appointments = appointmentsRepository.index();
+  const appointments = appointmentsRepository.all();
 
   return response.status(200).json({ appointments });
 });
