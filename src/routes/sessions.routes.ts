@@ -21,5 +21,3 @@ sessionsRouter.post('/', async (request, response) => {
 });
 
 export default sessionsRouter;
-
-// Test
